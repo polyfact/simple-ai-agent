@@ -7,7 +7,8 @@
     "dependencies": {
         "fp-ts": "^2.16.0",
         "io-ts": "^2.2.20",
-        "polyfact": "^0.1",
+        "node-fetch": "^2",
+        "polyfact": "file:../polyfact",
         "ts-node": "^10.9.1"
     },
     "devDependencies": {
